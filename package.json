@@ -1,19 +1,19 @@
 {
-  "name": "booking-link",
+  "name": "openmeet",
   "version": "0.1.0",
-  "description": "A tiny self-hosted booking link for Google Calendar.",
+  "description": "A tiny self-hosted meeting booking page for Google Calendar.",
   "private": true,
   "author": "LaughingisLaughing",
   "type": "module",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LaughingisLaughing/booking-link.git"
+    "url": "git+https://github.com/LaughingisLaughing/openmeet.git"
   },
   "bugs": {
-    "url": "https://github.com/LaughingisLaughing/booking-link/issues"
+    "url": "https://github.com/LaughingisLaughing/openmeet/issues"
   },
-  "homepage": "https://github.com/LaughingisLaughing/booking-link#readme",
+  "homepage": "https://github.com/LaughingisLaughing/openmeet#readme",
   "keywords": [
     "calendar",
     "scheduling",

@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Booking Link API
+  title: OpenMeet API
   version: 0.1.0
 paths:
   /api/availability:

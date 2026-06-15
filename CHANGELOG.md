@@ -8,7 +8,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ### Added
 
-- Initial open-source release of Booking Link.
+- Initial open-source release of OpenMeet.
 - Public booking page backed by Google Calendar FreeBusy.
 - Owner Google OAuth setup flow protected by `ADMIN_SECRET`.
 - Encrypted local token storage and SQLite booking locks.

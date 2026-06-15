@@ -20,7 +20,7 @@ export default function AdminPage({
           <ShieldCheck size={18} aria-hidden="true" />
           Owner setup
         </div>
-        <h1>Booking Link Admin</h1>
+        <h1>OpenMeet Admin</h1>
         <p className="muted">Calendar owner: {appConfig.ownerEmail}</p>
 
         <div className="status-list">

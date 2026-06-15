@@ -1,4 +1,4 @@
-# Booking Link — Architecture
+# OpenMeet — Architecture
 
 ## Open Source Reconnaissance
 
@@ -114,7 +114,7 @@ Required env vars:
 - `TOKEN_ENCRYPTION_KEY`
 - `ADMIN_SECRET`
 
-Railway needs a persistent volume mounted for `data/booking-link.db`.
+Railway needs a persistent volume mounted for `data/openmeet.db`.
 
 ## Key Decisions
 

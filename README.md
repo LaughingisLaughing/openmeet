@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Booking Link, a self-hosted booking link for Google Calendar"/>
+<img src="assets/hero.svg" width="100%" alt="OpenMeet, a self-hosted meeting booking page for Google Calendar"/>
 
-# Booking Link
+# OpenMeet
 
 One shareable booking page. One Google Calendar owner. No team scheduler, account system, or calendar mirror.
 
 <p>
-  <a href="https://github.com/LaughingisLaughing/booking-link/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/LaughingisLaughing/booking-link/ci.yml?branch=main&label=CI&style=for-the-badge&logo=githubactions&logoColor=white" alt="CI status"/></a>
-  <a href="https://github.com/LaughingisLaughing/booking-link/actions/workflows/secret-scan.yml"><img src="https://img.shields.io/github/actions/workflow/status/LaughingisLaughing/booking-link/secret-scan.yml?branch=main&label=Secret%20Scan&style=for-the-badge&logo=githubactions&logoColor=white" alt="Secret Scan status"/></a>
-  <a href="https://github.com/LaughingisLaughing/booking-link/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/tag/LaughingisLaughing/booking-link?style=for-the-badge&label=Release&color=14365c" alt="Latest tag"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/LaughingisLaughing/booking-link?style=for-the-badge&color=0f766e" alt="MIT license"/></a>
+  <a href="https://github.com/LaughingisLaughing/openmeet/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/LaughingisLaughing/openmeet/ci.yml?branch=main&label=CI&style=for-the-badge&logo=githubactions&logoColor=white" alt="CI status"/></a>
+  <a href="https://github.com/LaughingisLaughing/openmeet/actions/workflows/secret-scan.yml"><img src="https://img.shields.io/github/actions/workflow/status/LaughingisLaughing/openmeet/secret-scan.yml?branch=main&label=Secret%20Scan&style=for-the-badge&logo=githubactions&logoColor=white" alt="Secret Scan status"/></a>
+  <a href="https://github.com/LaughingisLaughing/openmeet/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/tag/LaughingisLaughing/openmeet?style=for-the-badge&label=Release&color=14365c" alt="Latest tag"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/LaughingisLaughing/openmeet?style=for-the-badge&color=0f766e" alt="MIT license"/></a>
 </p>
 
 <p>
@@ -20,8 +20,8 @@ One shareable booking page. One Google Calendar owner. No team scheduler, accoun
   <img src="https://img.shields.io/badge/SQLite-local%20locks-003b57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-<a href="https://github.com/LaughingisLaughing/booking-link">
-  <img src="https://socialify.git.ci/LaughingisLaughing/booking-link/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Booking Link GitHub social card" width="640"/>
+<a href="https://github.com/LaughingisLaughing/openmeet">
+  <img src="https://socialify.git.ci/LaughingisLaughing/openmeet/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="OpenMeet GitHub social card" width="640"/>
 </a>
 
 </div>
@@ -32,7 +32,7 @@ One shareable booking page. One Google Calendar owner. No team scheduler, accoun
 
 You want to share a booking link, but most schedulers start by turning a simple personal workflow into a SaaS account, a team scheduling model, or a calendar sync surface you do not need.
 
-Booking Link keeps the surface small: a public booking page, a private owner admin flow, Google Calendar availability, and local SQLite locks.
+OpenMeet keeps the surface small: a public booking page, a private owner admin flow, Google Calendar availability, and local SQLite locks.
 
 ## The Fix
 
@@ -50,11 +50,11 @@ flowchart LR
 
 ## Quick Start
 
-Booking Link is an app, not a published npm package. Run it from the GitHub source:
+OpenMeet is an app, not a published npm package. Run it from the GitHub source:
 
 ```bash
-git clone https://github.com/LaughingisLaughing/booking-link.git
-cd booking-link
+git clone https://github.com/LaughingisLaughing/openmeet.git
+cd openmeet
 npm install
 cp env.example .env
 npm run gen:key
@@ -156,8 +156,8 @@ Luxon weekday numbers are Monday `1` through Sunday `7`.
 ## Star History
 
 <div align="center">
-  <a href="https://star-history.com/#LaughingisLaughing/booking-link&Date">
-    <img src="https://api.star-history.com/svg?repos=LaughingisLaughing/booking-link&type=Date&theme=dark" alt="Star history chart for LaughingisLaughing/booking-link" width="600"/>
+  <a href="https://star-history.com/#LaughingisLaughing/openmeet&Date">
+    <img src="https://api.star-history.com/svg?repos=LaughingisLaughing/openmeet&type=Date&theme=dark" alt="Star history chart for LaughingisLaughing/openmeet" width="600"/>
   </a>
 </div>
 

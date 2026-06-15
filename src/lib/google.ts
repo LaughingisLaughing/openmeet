@@ -166,7 +166,7 @@ export const insertCalendarEvent = async (input: {
   if (appConfig.enableGoogleMeet) {
     requestBody.conferenceData = {
       createRequest: {
-        requestId: `booking-link-${randomUUID()}`,
+        requestId: `openmeet-${randomUUID()}`,
         conferenceSolutionKey: { type: "hangoutsMeet" },
       },
     };

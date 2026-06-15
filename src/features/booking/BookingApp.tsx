@@ -197,7 +197,7 @@ export function BookingApp() {
             L
           </div>
           <div>
-            <p className="eyebrow">Booking Link</p>
+            <p className="eyebrow">OpenMeet</p>
             <h1>Book time with Laughing</h1>
           </div>
         </div>

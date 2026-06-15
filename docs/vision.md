@@ -1,8 +1,8 @@
-# Booking Link — Vision
+# OpenMeet — Vision
 
 ## Product Overview
 
-Booking Link is a personal scheduling page for a single Google Calendar owner. Visitors can pick an available time, submit their contact details, and receive a Google Calendar invite. The app is deliberately single-owner and single-event-type so it stays easy to operate.
+OpenMeet is a personal scheduling page for a single Google Calendar owner. Visitors can pick an available time, submit their contact details, and receive a Google Calendar invite. The app is deliberately single-owner and single-event-type so it stays easy to operate.
 
 ## Target Users
 

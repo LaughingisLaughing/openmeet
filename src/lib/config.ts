@@ -63,7 +63,7 @@ export const appConfig = {
   enableGoogleMeet: boolFromEnv("ENABLE_GOOGLE_MEET", true),
   databasePath:
     process.env.DATABASE_PATH ??
-    path.join(process.cwd(), "data", "booking-link.db"),
+    path.join(process.cwd(), "data", "openmeet.db"),
   availability: parseAvailability(),
 };
 

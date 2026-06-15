@@ -1,4 +1,4 @@
-<svg viewBox="0 0 880 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Booking Link, a self-hosted booking link for Google Calendar">
+<svg viewBox="0 0 880 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="OpenMeet, a self-hosted meeting booking page for Google Calendar">
   <style>
     .bp-line { stroke: #ffffff; stroke-opacity: .22; stroke-width: 1; fill: none; }
     .bp-strong { stroke: #ffffff; stroke-opacity: .75; stroke-width: 1.2; fill: none; }
@@ -22,7 +22,7 @@
   </g>
 
   <text class="bp-mono" x="64" y="62">FIG. 01 / SELF-HOSTED SCHEDULING</text>
-  <text class="bp-title" x="60" y="122">BOOKING LINK</text>
+  <text class="bp-title" x="60" y="122">OPENMEET</text>
 
   <path class="bp-strong bp-march" d="M64 154 H560"/>
   <path class="bp-strong" d="M64 147 v14 M560 147 v14"/>

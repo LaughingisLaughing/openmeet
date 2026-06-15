@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Booking Link",
+  title: "OpenMeet",
   description: "Book time with Laughing Qiao.",
 };
 

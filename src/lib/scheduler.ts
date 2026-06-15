@@ -279,7 +279,7 @@ export const bookSlot = async (request: BookRequest): Promise<BookResponse> => {
     const event = await insertCalendarEvent({
       summary: `${appConfig.eventTitle} with ${request.name.trim()}`,
       description: [
-        `Booked through Booking Link.`,
+        `Booked through OpenMeet.`,
         `Invitee: ${request.name.trim()} <${request.email.trim().toLowerCase()}>`,
         request.note?.trim() ? `Note: ${request.note.trim()}` : undefined,
         `Cancel: ${cancelUrl}`,

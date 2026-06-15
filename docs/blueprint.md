@@ -1,9 +1,9 @@
-# Booking Link — Implementation Blueprint
+# OpenMeet — Implementation Blueprint
 
 ## File Tree
 
 ```text
-booking-link/
+openmeet/
 ├── [L0] package.json                 # Scripts and dependencies
 ├── [L0] next.config.ts               # Next.js config
 ├── [L0] tsconfig.json                # TypeScript config

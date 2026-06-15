@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for improving Booking Link.
+Thanks for improving OpenMeet.
 
 ## Development
 
